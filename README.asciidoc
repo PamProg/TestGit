@@ -22,6 +22,7 @@ This is a trivial Java EE 7 sample.
 .. `mvn versions:set -DnewVersion=2.0`
 .. `mvn deploy -P release`
 
+
+je rajoute
 Test
 Je rajoute un test
-Je rajoute ENCORE un test pour la branche "develop"
