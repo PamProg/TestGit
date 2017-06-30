@@ -23,3 +23,5 @@ This is a trivial Java EE 7 sample.
 .. `mvn deploy -P release`
 
 Test
+Je rajoute un test
+Je rajoute ENCORE un test pour la branche "develop"
